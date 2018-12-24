@@ -64,6 +64,7 @@ body::before {
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2561年12月24日(月) Utsunimiya!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="left"> <img src="utsunomiya_qr.png" alt="アクセス用QRコード" width="100"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
