@@ -70,9 +70,9 @@ body::before {
 <h3><span class="white">↓ 画像はクリックで拡大します。スライドショーで閲覧できます。</span></h3>
 <a href="20181224_01.JPG" data-lightbox="abc"><img src="20181224_01.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181224_02.JPG" data-lightbox="abc"><img src="20181224_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181224_03.JPG" data-lightbox="abc"><img src="20181224_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181224_04.JPG" data-lightbox="abc"><img src="20181224_04.JPG" alt="サンプル画像" width="180" /></a>
   <!--
-<a href="20181115_03.JPG" data-lightbox="abc"><img src="20181115_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181115_04.JPG" data-lightbox="abc"><img src="20181115_04.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_05.JPG" data-lightbox="abc"><img src="20181115_05.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_06.JPG" data-lightbox="abc"><img src="20181115_06.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181115_07.JPG" data-lightbox="abc"><img src="20181115_07.JPG" alt="サンプル画像" width="180" /></a>
