@@ -100,7 +100,7 @@ body::before {
 <a href="20181115_29.JPG" data-lightbox="abc"><img src="20181115_29.JPG" alt="サンプル画像" width="540" /></a>
 <a href="20181115_30.JPG" data-lightbox="abc"><img src="20181115_30.JPG" alt="サンプル画像" width="90" /></a>
 -->
-<span class="blue"><p align="center"><a href="http://www.super-sento.com/utsunomiya/ganbanyoku.html" target="_blank">Onsen_Link</a></p></span>
+<span class="blue"><p align="left"><a href="http://www.super-sento.com/utsunomiya/ganbanyoku.html" target="_blank">Onsen_Link</a></p></span>
 
 
 
