@@ -64,7 +64,7 @@ body::before {
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2562/8/10(Sat) Igashira Park!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<p align="left"> <img src="utsunomiya_qr.png" alt="アクセス用QRコード" width="100"></p>
+<p align="left"> <img src="utsunomiya_qr.png" alt="アクセス用QRコード" width="50"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="20190810_001.JPG" data-lightbox="abc"><img src="20190810_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190810_002.JPG" data-lightbox="abc"><img src="20190810_002.JPG" alt="サンプル画像" width="900" /></a>
